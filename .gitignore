@@ -2,7 +2,6 @@
 node_modules
 ele-server/config
 ele-server/node_modules
-
 ele-admin/node_modules
 
 # local env files
